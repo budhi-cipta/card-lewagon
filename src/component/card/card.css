@@ -1,0 +1,29 @@
+.wraper{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    
+   
+
+}
+
+.cardSingle{
+    background-color: snow;
+    width: 900px;
+    height: 300px;
+    color: #0e0000;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.wraper .wrapbutton{
+    display: flex;
+    justify-content: center;
+    
+}
+.button {
+    margin : 10px;
+}
